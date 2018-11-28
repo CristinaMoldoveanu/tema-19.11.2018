@@ -1,0 +1,26 @@
+body {
+  background-color: #fefeb6;
+  font-size: 18px;
+}
+h1 {
+  font-size: 180%;
+  color: #47c641;
+  font-family: franklin ghotic regular;
+}
+
+h2 {
+  font-size: 180%;
+  color: #0b71b7;
+  font-family: franklin ghotic regular;
+}
+p {
+  font-size: 100%;
+  color: #3f3b26;
+  font-family: franklin ghotic regular;
+}
+#link {
+  color: #0b71b7;
+}
+#text {
+  color: black;
+}
